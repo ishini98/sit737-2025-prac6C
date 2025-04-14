@@ -1,0 +1,14 @@
+{
+  "name": "node-web-app",
+  "version": "3.0.0",
+  "description": "SIT737 demo app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
