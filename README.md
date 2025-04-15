@@ -1,18 +1,22 @@
-# 6.1P Kubernetes Deployment for Node.js Web App
+# SIT737 Kubernetes Interaction Task
 
-## Requirements
+This repository contains the solution for the Cloud Native Application Development task involving Kubernetes interactions and application updates.
 
+## Prerequisites
+
+- Git
+- VS Code
+- Node.js 14+
 - Docker
-- Minikube
+- Kubernetes cluster (Minikube or cloud-based)
 - kubectl
 
-## Steps to Deploy
+## Setup Instructions
 
-1. Start Minikube:  
-   `minikube start --driver=docker`
+### 1. Clone Repository
 
-2. Build Docker image:
-   ```bash
-   eval $(minikube -p minikube docker-env)
-   docker build -t node-web-app:latest .
-   ```
+```bash
+git clone https://github.com/<your-username>/sit737-2025-prac6c.git
+cd sit737-2025-prac6c
+
+```
