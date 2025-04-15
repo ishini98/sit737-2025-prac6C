@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# SIT737 Kubernetes Interaction Task
+# SIT737 - Kubernetes Interaction Task
 
 This repository contains the solution for the Cloud Native Application Development task involving Kubernetes interactions and application updates.
 
@@ -17,7 +17,7 @@ This repository contains the solution for the Cloud Native Application Developme
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/sit737-2025-prac6c.git
+git clone https://github.com/<ishini98>/sit737-2025-prac6c.git
 cd sit737-2025-prac6c
 
 ```
@@ -57,4 +57,3 @@ kubectl rollout status deployment/node-web-app
 •	Pending IP? Run minikube tunnel.
 •	Rollback: kubectl rollout undo deployment/node-web-app.
 
->>>>>>> 04883eb1d37e4c7fb44ef7e58e5d78396ed817d9
