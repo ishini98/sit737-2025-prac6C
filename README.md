@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # SIT737 - Kubernetes Interaction Task
 
 This repository contains the solution for the Cloud Native Application Development task involving Kubernetes interactions and application updates.
